@@ -1,0 +1,3 @@
+enum SquareUpdateType {
+  pickUp, setDown
+}

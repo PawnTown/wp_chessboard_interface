@@ -1,0 +1,4 @@
+enum BoardPieceColor {
+  white,
+  black,
+}

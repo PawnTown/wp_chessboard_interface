@@ -1,0 +1,3 @@
+enum GamePlayerColor {
+  white, black
+}
